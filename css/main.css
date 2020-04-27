@@ -640,6 +640,9 @@ footer {
     margin: 0 0 15px 0; } }
 
 @media (max-width: 560px) {
+  .row_bg_title {
+    font-size: 30px;
+  }
   .works_row img {
     max-width: 100%; } }
 
