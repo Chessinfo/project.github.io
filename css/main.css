@@ -546,6 +546,9 @@ footer {
     max-width: 33.333%; } }
 
 @media (max-width: 767px) {
+  .row_bg_title {
+    font-size: 45px;
+  }
   .menu_btn {
     width: 30px;
     height: 20px;
